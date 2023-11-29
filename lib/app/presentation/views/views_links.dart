@@ -1,3 +1,4 @@
+export 'package:plantilla/app/app.dart';
 export 'package:plantilla/app/presentation/views/home/home_view.dart';
 export 'package:plantilla/app/presentation/views/texto_views/texto1.dart';
 export 'package:plantilla/app/presentation/views/texto_views/texto_views.dart';
@@ -11,4 +12,12 @@ export 'package:plantilla/app/presentation/views/theme_views/app_theme_view.dart
 export 'package:plantilla/app/presentation/views/iconos_views/iconos_views.dart';
 export 'package:plantilla/app/presentation/views/login_views/login_views.dart';
 export 'package:plantilla/app/presentation/views/register_views/register_views.dart';
+export 'package:plantilla/app/presentation/widgets/my_text_form.dart';
+export 'package:plantilla/app/presentation/widgets/my_button_form.dart';
+export 'package:plantilla/app/presentation/views/login_views/widgets/login_divider.dart';
+export 'package:plantilla/app/presentation/views/register_views/widgets/register_divider.dart';
+export 'package:plantilla/app/presentation/widgets/my_social_button.dart';
+
+
+
 

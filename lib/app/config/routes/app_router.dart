@@ -43,12 +43,12 @@ final appRouter = GoRouter(
     GoRoute(
       path: '/register_view',
       name : RegisterView.name,
-      builder : (context, state) => const RegisterView(),
+      builder : (context, state) =>  RegisterView(),
     ),
     GoRoute(
       path: '/login_view',
       name : LoginView.name,
-      builder : (context, state) => const LoginView(),
+      builder : (context, state) =>  LoginView(),
     ),
   ]
 );

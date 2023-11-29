@@ -32,6 +32,11 @@ const List<Color> _colorTheme=[
           color: Colors.red
 
         ),
+          bodySmall: TextStyle(
+              fontSize: 20,
+              fontFamily: 'Glowdex',
+              color: Colors.green
+          ),
         bodyMedium: TextStyle(
           fontSize: 20,
           fontFamily: 'Glowdex',
